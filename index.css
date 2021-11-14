@@ -1,0 +1,220 @@
+.zs { outline: none; fill: transparent; width: 32px; height: 32px; stroke-width: 4px; }
+.zl { outline: none; fill: transparent; width: 62px; height: 62px; stroke-width: 4px; }
+.z1 { x:  93px; y: 340px; }
+.z2 { x: 170px; y: 236px; }
+.z3 { x: 294px; y: 310px; }
+.z4 { x: 294px; y: 379px; }
+.z5 { x: 455px; y: 491px; }
+.z6 { x: 580px; y: 286px; }
+.z7 { x: 740px; y: 399px; }
+.z8 { x: 740px; y: 468px; }
+.z9 { x: 865px; y: 437px; }
+.z10 { x: 942px; y: 437px; }
+.z11 { x: 132px; y: 340px; }
+.z12 { x: 235px; y: 298px; }
+.z13 { x: 150px; y: 590px; }
+.z14 { x: 370px; y: 204px; }
+.z15 { x: 378px; y: 345px; }
+.z16 { x: 474px; y: 216px; }
+.z17 { x: 500px; y: 755px; }
+.z18 { x: 760px; y: 305px; }
+.z19 { x: 798px; y: 712px; }
+.z20 { x: 560px; y: 560px; }
+.z21 { x: 664px; y: 571px; }
+.z22 { x: 694px; y: 220px; }
+.z23 { x: 903px; y: 437px; }
+.z24 { x: 973px; y: 763px; }
+.z25 { x: 987px; y: 178px; }
+.z26 { x:  97px; y: 635px; }
+.z27 { x: 170px; y: 340px; }
+.z28 { x: 400px; y: 682px; }
+.z29 { x: 189px; y: 182px; }
+.z30 { x: 190px; y: 663px; }
+.z31 { x: 238px; y: 698px; }
+.z32 { x: 455px; y: 616px; }
+.z33 { x: 537px; y: 724px; }
+.z34 { x: 757px; y: 774px; }
+.z35 { x: 845px; y: 112px; }
+.z36 { x: 107px; y: 237px; }
+.z37 { x: 584px; y: 452px; }
+.z38 { x: 799px; y: 79px; }
+.z39 { x: 845px; y: 594px; }
+.z40 { x: 864px; y: 541px; }
+.z41 { x: 929px; y: 539px; }
+.z42 { x: 937px; y: 140px; }
+.z43 { x:   0px; y: 380px; }
+.z44 { x: 1004px; y: 368px; }
+.z45 { x: 504px; y: 376px; }
+.z46 { x: 653px; y: 700px; }
+.z47 { x:  48px; y: 598px; }
+.z48 { x: 237px; y: 63px; }
+.z49 { x: 264px; y: 124px; }
+.z50 { x: 276px; y: 471px; }
+.z51 { x: 341px; y: 555px; }
+.z52 { x: 341px; y: 656px; }
+.z53 { x: 552px; y: 624px; }
+.z54 { x: 772px; y: 651px; }
+.z55 { x: 888px; y: 187px; }
+.z56 { x: 930px; y: 651px; }
+.z57 { x: 637px; y: 94px; }
+.z58 { x: 656px; y: 432px; }
+.z59 { x: 695px; y: 121px; }
+.z60 { x: 799px; y: 479px; }
+.z61 { x: 892px; y: 78px; }
+.z62 { x: 191px; y: 524px; }
+.z63 { x: 846px; y: 253px; }
+.z64 { x: 484px; y: 151px; }
+.z65 { x: 500px; y: 52px; }
+.z66 { x: 539px; y: 21px; }
+.z67 { x: 581px; y: 160px; }
+.z68 { x:  65px; y: 13px; }
+.z69 { x: 106px; y: 125px; }
+.z70 { x: 279px; y: 2px; }
+.z71 { x: 452px; y: 330px; }
+.z72 { x: 144px; y: 697px; }
+.z73 { x: 326px; y: 591px; }
+.z74 { x: 353px; y: 48px; }
+.z75 { x: 680px; y: 156px; }
+
+rect[data-mark-over="true"].zone_1, rect[data-mark-active="true"].zone_2, 
+rect[data-mark-active="true"].zone_3, rect[data-mark-active="true"].zone_4, 
+rect[data-mark-active="true"].zone_5, rect[data-mark-active="true"].zone_6, 
+rect[data-mark-active="true"].zone_7, rect[data-mark-active="true"].zone_8, 
+rect[data-mark-active="true"].zone_9, rect[data-mark-active="true"].zone_10, 
+rect[data-mark-active="true"].zone_11, rect[data-mark-active="true"].zone_12, 
+rect[data-mark-active="true"].zone_13, rect[data-mark-active="true"].zone_14, 
+rect[data-mark-active="true"].zone_15, rect[data-mark-active="true"].zone_16, 
+rect[data-mark-active="true"].zone_17, rect[data-mark-active="true"].zone_18, 
+rect[data-mark-active="true"].zone_19, rect[data-mark-active="true"].zone_20 {
+    stroke: red;
+}
+
+rect[data-mark-active="true"].zone_1, rect[data-mark-over="true"].zone_2, 
+rect[data-mark-over="true"].zone_3, rect[data-mark-over="true"].zone_4, 
+rect[data-mark-over="true"].zone_5, rect[data-mark-over="true"].zone_6, 
+rect[data-mark-over="true"].zone_7, rect[data-mark-over="true"].zone_8, 
+rect[data-mark-over="true"].zone_9, rect[data-mark-over="true"].zone_10, 
+rect[data-mark-over="true"].zone_11, rect[data-mark-over="true"].zone_12, 
+rect[data-mark-over="true"].zone_13, rect[data-mark-over="true"].zone_14, 
+rect[data-mark-over="true"].zone_15, rect[data-mark-over="true"].zone_16, 
+rect[data-mark-over="true"].zone_17, rect[data-mark-over="true"].zone_18, 
+rect[data-mark-over="true"].zone_19, rect[data-mark-over="true"].zone_20  {
+    stroke: blue; 
+}
+
+html, div { width: 100%; }
+
+svg { height: 50vh; width: inherit; }
+image { height: 100% }
+
+/* */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+table thead {
+    background-color: rgb(128, 128, 128);
+}
+
+table > thead > tr:nth-child(1) > th {
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    height: 50px;
+}
+
+table th {
+    color: rgb(255, 255, 255);
+    font-size: 1.3em;
+    height: 25px;
+}
+
+tbody tr:nth-child(even) {
+    background-color: rgb(231, 231, 231);
+}
+tbody tr:nth-child(odd) {
+    background-color: rgb(245, 245, 245);
+}
+
+table div {
+    text-align: center;
+}
+
+table p {
+    font-size: 1.1em;
+    margin: auto;
+    text-align: center;
+}
+
+p.vers_2 {
+    font-size: 1.3em;
+    border-radius: 10px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 50%;
+    background-color: rgb(61, 210, 255);
+}
+
+p.vers_3 {
+    font-size: 1.3em;
+    border-radius: 10px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 50%;
+    background-color: rgb(255, 121, 248);
+}
+
+p.vers_d {
+    display: inline-block;
+    margin: 0;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 50%;
+    background-color: rgb(61, 210, 255);
+}
+
+p.vers_p {
+    display: inline-block;
+    margin: 0;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 50%;
+    background-color: rgb(255, 121, 248);
+}
+
+p.zukan_0, p.zukan_1, p.zukan_2, p.zukan_3, p.zukan_4, p.zukan_5, p.zukan_6 {
+    font-size: 1.3em;
+    border-radius: 10px;
+    width: 50%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+p.zukan_0 {
+    background-color: rgb(255, 207, 51);
+}
+p.zukan_1 {
+    background-color: rgb(255, 162, 162);
+}
+p.zukan_2 {
+    background-color: rgb(175, 255, 151);
+}
+p.zukan_3 {
+    background-color: rgb(139, 255, 216);
+}
+p.zukan_4 {
+    background-color: rgb(150, 157, 253);
+}
+p.zukan_5 {
+    background-color: rgb(158, 123, 255);
+}
+p.zukan_6 {
+    background-color: rgb(255, 143, 205);
+}
