@@ -3529,6 +3529,7 @@
   },
   "zone_9": {
     "id": 9,
+    "str": "Grotte des Neiges",
     "FileName": "UgEncount_09",
     "size": 0,
     "min": 5,
@@ -3779,6 +3780,7 @@
   },
   "zone_10": {
     "id": 10,
+    "str": "Grotte des Stalactites",
     "FileName": "UgEncount_10",
     "size": 0,
     "min": 5,
@@ -5066,7 +5068,7 @@
   },
   "zone_14": {
     "id": 14,
-    "str": "Grotte de la Prairie",
+    "str": "Caverne Ensoleillée",
     "FileName": "UgEncount_03",
     "size": 0,
     "min": 7,
@@ -5737,7 +5739,7 @@
   },
   "zone_16": {
     "id": 16,
-    "str": "Grotte Éblouissante",
+    "str": "Caverne de la Nuit Étoilée",
     "FileName": "UgEncount_08",
     "size": 0,
     "min": 7,
@@ -6048,6 +6050,7 @@
   },
   "zone_17": {
     "id": 17,
+    "str": "Caverne du Glacier",
     "FileName": "UgEncount_10",
     "size": 0,
     "min": 7,
@@ -6275,7 +6278,7 @@
   },
   "zone_18": {
     "id": 18,
-    "str": "Grotte du Marécage",
+    "str": "Caverne du Marais Sans Fond",
     "FileName": "UgEncount_07",
     "size": 0,
     "min": 7,
@@ -6528,7 +6531,7 @@
   },
   "zone_19": {
     "id": 19,
-    "str": "Grotte du Magma",
+    "str": "Caverne Typhlosion",
     "FileName": "UgEncount_06",
     "size": 0,
     "min": 7,
